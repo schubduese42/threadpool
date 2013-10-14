@@ -1,5 +1,8 @@
 Change Log
 
+upcoming
+  -  compatibility update - TIME_UTC changed to TIME_UTC_ since boost version >= 1.5.0
+
 0.2.6 (Stable)
   - Moved project to http://github.com/henkel/threadpool
   - No source code change
